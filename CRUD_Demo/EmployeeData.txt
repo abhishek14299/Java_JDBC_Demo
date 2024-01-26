@@ -1,0 +1,9 @@
+1,Harry,Developer,200000
+2,potter,Manager,3023840
+3,Joe,President,4089782
+4,Noddy,Police,2836287
+5,Wick,tester,30200
+6,Bato,Devops,30200
+7,Dotq,Lead,30200
+8,Fino,Admin,30200
+9,zeal,QA,30200
